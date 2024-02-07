@@ -33,6 +33,7 @@ After that from your project folder you can run all tests with:
 ```
 nunit3-console.exe ".\SharpRepository.Samples\bin\Debug\net461\SharpRepository.Samples.dll" ".\SharpRepository.Tests\bin\Debug\net461\SharpRepository.Tests.dll" ".\SharpRepository.Tests.Integration\bin\Debug\net461\SharpRepository.Tests.Integration.dll"
 ```
+  "secretkey": "I/+LSqi6o8ssk//M/irWNWwOQXlsaq3kEfwE5g5D",
 
 
 Have Questions?
