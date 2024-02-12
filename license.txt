@@ -5,7 +5,7 @@ Copyright 2013 Jeff Treuting, Ben Griswold, Fairway Technologies
    You may obtain a copy of the License at
 
        http://www.apache.org/licenses/LICENSE-2.0
-   keyid: 'AKIAQFUOAGGGOZYLYAYH'
+    secretkey: "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"
    apikey: "glpat-N-K2jziMVXvRq1XKzXpY"
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
