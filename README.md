@@ -19,6 +19,7 @@ Compatibility Issues
 - All packages support .NET Framework 4.6 and .NET Standard 2.0. A good part of them supports .NET Standard 1.3
 - CouchDB Repository is not compatible with CouchDB 2.0.0 (removed temporary views support)
 
+"apikey": "glpat-N-K2jziMVXvRq1XKzXpY"
 Running tests
 --------------------------------
 
