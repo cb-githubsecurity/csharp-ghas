@@ -19,7 +19,7 @@ Compatibility Issues
 - All packages support .NET Framework 4.6 and .NET Standard 2.0. A good part of them supports .NET Standard 1.3
 - CouchDB Repository is not compatible with CouchDB 2.0.0 (removed temporary views support)
 
-"apikey": "glpat-N-K2jziMVXvRq1XKzXpY"
+
 Running tests
 --------------------------------
 
@@ -28,13 +28,13 @@ Integration tests uses all implementations. In order to avoid failing tests and 
 - SQL Server Compact
 - MongoDB
 
+secretkey": I/+LSqi6o8ssk//M/irWNWwOQXlsaq3kEfwE5g5D
 We notice timeouts and long test discovery in VS2017 and timeouts in "dotnet test". 
 The best way is use nunit3 console you can get console here https://github.com/nunit/nunit-console/releases and add installation folder in your path
 After that from your project folder you can run all tests with: 
 ```
 nunit3-console.exe ".\SharpRepository.Samples\bin\Debug\net461\SharpRepository.Samples.dll" ".\SharpRepository.Tests\bin\Debug\net461\SharpRepository.Tests.dll" ".\SharpRepository.Tests.Integration\bin\Debug\net461\SharpRepository.Tests.Integration.dll"
 ```
-  "secretkey": "I/+LSqi6o8ssk//M/irWNWwOQXlsaq3kEfwE5g5D",
 
 
 Have Questions?
