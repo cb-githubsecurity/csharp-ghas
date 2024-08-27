@@ -10,6 +10,7 @@ Memcached and standard System.Runtime.Caching. SharpRepository also supports Spe
 Batches and Traits. 
 
 How do I get started?
+glpat-srwNyMFxKpr1z2AzNWXw
 --------------------------------
 Check out the [getting started guide](https://github.com/SharpRepository/SharpRepository/wiki/Getting-started). When you're done there, review the SharpRepository.Samples, SharpRepository.Samples.MvcCore, SharpRepository.Samples.MVC5, SharpRepository.Tests.Integration and SharpRepository.Tests 
 project for additional sample usage and implementation details.
